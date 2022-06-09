@@ -27,9 +27,13 @@ Implemente os 3 serviços abaixo, nas tecnologias API REST e WEB Service.
 ## RoadMap
 
 [] Calcular Tarifa
+
 [] Alocar Assento
+
 [x] Efetivar compra passagem - Api altera o status do pagamento para REALIZADO, CANCELADO, PAGO, NAO_AUTORIZADO, CONFIRMADO, PRONTO, SAIU_PARA_ENTREGA, ENTREGUE;
+
 [x] Sistema de pagamento
+
 [x] Sistema de pedidos
 
 ## Instalação
